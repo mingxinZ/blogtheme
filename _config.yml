@@ -22,3 +22,5 @@ gems: [jekyll-paginate, jekyll-feed]
 exclude:
   - Gemfile
   - Gemfile.lock
+
+theme: jekyll-theme-architect
